@@ -30,6 +30,7 @@ The objective was to determine what the supplied data actually supports and iden
 ## Business Questions
 
 The project audited eight management claims:
+![Dashboard to be Audited](Assets/dashboard_to_be_audited.jpg)
 
 1. Is Abuja the most profitable market?
 2. Is Electronics the strongest-performing category, and does that justify allocating more budget to it?
