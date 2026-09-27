@@ -1,0 +1,433 @@
+Transaction_ID,Date,Store_ID,State,Channel,Product_Category,Product,Customer_ID,Customer_Type,Units,Unit_Price_NGN,Discount_Pct,Revenue_Reported_NGN,Cost_Per_Unit_NGN,Return_Flag,Sales_Rep
+100001,25/05/2026,AB-02,Abuja,WhatsApp,Home,Standing Fan,C1141,New,1,58000,0,58000,,No,Chinedu
+100002,17/04/2026,LG-01,Lagos,WhatsApp,Electronics,Smartphone,C1083,Returning,5,165000,0.05,627000,112000,No,Kemi
+100003,26/02/2026,AB-01,Abuja,WhatsApp,Electronics,Earbuds,C1029,Returning,3,32000,0.2,76800,19000,No,Chinedu
+100004,09/06/2026,KN-01,Kano,Online,Electronics,Power Bank,C1082,Returning,4,26000,0,104000,15000,No,Grace
+100005,30/05/2026,LG-01,Lagos,Online,Electronics,Smartphone,C1180,Returning,1,165000,0.05,156750,112000,No,Chinedu
+100006,04/08/2026,LG-02,Lagos,In-store,Accessories,USB Cable,C1161,Returning,3,6500,0.1,17550,2200,No,Bola
+100007,09/03/2026,LG-01,Lagos,In-store,Electronics,Power Bank,C1007,New,3,26000,0.1,70200,15000,No,Chinedu
+100008,26/07/2026,KN-01,Kano,Online,Electronics,Smartphone,C1051,Returning,5,165000,0.05,783750,112000,No,Kemi
+100009,06/01/2026,IB-01,Ibadan,In-store,Home,Blender,C1111,Returning,3,42000,0.15,107100,28000,No,Fatima
+100010,14/08/2026,PH-01,Port Harcourt,In-store,Electronics,Smartphone,C1153,Returning,1,165000,0,165000,112000,No,David
+100011,27/06/2026,LG-01,Lagos,In-store,Electronics,Earbuds,C1059,Returning,1,32000,0,32000,19000,No,David
+100012,08/04/2026,KN-01,Kano,Online,Accessories,Phone Case,C1028,New,1,9000,0,9000,3500,No,David
+100013,11/05/2026,IB-01,Ibadan,In-store,Home,Electric Kettle,C1192,New,2,24000,0,48000,15000,No,Ibrahim
+100014,22/06/2026,AB-02,Abuja,WhatsApp,Accessories,Backpack,C1022,Returning,2,28000,0.25,42000,,No,Fatima
+100015,09/01/2026,PH-01,Port Harcourt,In-store,Electronics,Smartphone,C1084,New,2,165000,0,330000,112000,No,Grace
+100016,25/07/2026,LG-02,Lagos,Online,Accessories,USB Cable,C1123,New,1,6500,0.1,4680,2200,No,Kemi
+100017,10/01/2026,KN-01,Kano,WhatsApp,Home,Blender,C1134,New,2,42000,0,84000,28000,No,Ibrahim
+100018,29/04/2026,PH-01,Port Harcourt,In-store,Accessories,USB Cable,C1100,Returning,22,6500,0.15,121550,2200,No,Kemi
+100019,06/05/2026,LG-01,Lagos,In-store,Electronics,Power Bank,C1189,Returning,1,26000,0.15,22100,15000,No,Bola
+100020,19/04/2026,AB-02,Abuja,In-store,Electronics,Power Bank,C1050,Returning,1,26000,0.25,19500,,No,Ibrahim
+100021,06/05/2026,AB-02,Abuja,WhatsApp,Electronics,Power Bank,C1184,New,1,26000,0,26000,15000,No,Kemi
+100022,11/01/2026,IB-01,Ibadan,WhatsApp,Accessories,Backpack,C1022,New,1,28000,0.05,26600,16000,No,Bola
+100023,30/01/2026,AB-01,Abuja,Online,Electronics,Earbuds,C1004,Returning,1,32000,0.15,27200,19000,No,David
+100024,08/05/2026,AB-01,Abuja,In-store,Home,Standing Fan,C1034,New,2,58000,0.2,92800,,Yes,Grace
+100025,05/01/2026,KN-01,Kano,In-store,Home,Standing Fan,C1164,Returning,5,58000,0.05,275500,39000,No,David
+100026,30/06/2026,IB-01,Ibadan,In-store,Accessories,Phone Case,C1155,Returning,2,9000,0.1,16200,,No,Chinedu
+100027,30/04/2026,KN-01,Kano,WhatsApp,Home,Standing Fan,C1073,New,4,58000,0.05,220400,39000,No,David
+100028,14/05/2026,AB-01,Abuja,Online,Electronics,Power Bank,C1136,Returning,22,26000,0.25,429000,15000,No,Bola
+100029,22/03/2026,AB-01,Abuja,In-store,Home,Standing Fan,C1173,Returning,5,58000,0.1,261000,,No,Chinedu
+100030,06/07/2026,KN-01,Kano,Online,Electronics,Power Bank,C1071,New,1,26000,0.05,24700,15000,No,David
+100031,09/06/2026,AB-01,Abuja,In-store,Home,Standing Fan,C1047,New,2,58000,0.15,98600,39000,No,Aisha
+100032,28/03/2026,PH-01,Port Harcourt,Online,Home,Electric Kettle,C1051,New,1,24000,0.05,22800,15000,No,Kemi
+100033,10/05/2026,LG-01,Lagos,In-store,Home,Standing Fan,C1094,New,3,58000,0,174000,39000,No,Aisha
+100034,15/05/2026,PH-01,Port Harcourt,In-store,Home,Standing Fan,C1089,Returning,1,58000,0.15,49300,39000,No,Bola
+100035,23/02/2026,KN-01,Kano,In-store,Accessories,Backpack,C1048,Returning,25,28000,0.05,665000,16000,No,Ibrahim
+100036,23/02/2026,KN-01,Kano,In-store,Electronics,Earbuds,C1056,New,2,32000,0.05,60800,19000,Yes,Bola
+100037,12/04/2026,AB-01,Abuja,In-store,Accessories,Backpack,C1036,New,2,28000,0,56000,16000,No,Grace
+100038,15/01/2026,KN-01,Kano,Online,Electronics,Earbuds,C1138,Returning,2,32000,0,64000,19000,No,Aisha
+100039,04/04/2026,AB-02,Abuja,Online,Accessories,USB Cable,C1044,New,3,6500,0.1,17550,2200,No,Grace
+100040,03/05/2026,AB-01,Abuja,WhatsApp,Home,Standing Fan,C1063,Returning,1,58000,0.05,55100,39000,No,Kemi
+100041,13/01/2026,PH-01,Port Harcourt,WhatsApp,Electronics,Earbuds,C1001,Returning,3,32000,0.1,86400,19000,No,Bola
+100042,09/05/2026,IB-01,Ibadan,WhatsApp,Electronics,Smartphone,C1174,Returning,2,165000,0,330000,112000,No,Chinedu
+100043,15/06/2026,IB-01,Ibadan,In-store,Home,Electric Kettle,C1169,Returning,2,24000,0.15,40800,15000,No,Bola
+100044,25/05/2026,AB-01,Abuja,Online,Home,Electric Kettle,C1081,Returning,1,24000,0.2,19200,15000,No,Fatima
+100045,07/01/2026,LG-02,Lagos,Online,Electronics,Earbuds,C1113,Returning,1,32000,0,32000,19000,Yes,Fatima
+100046,03/05/2026,KN-01,Kano,In-store,Home,Electric Kettle,C1068,Returning,3,24000,0.05,68400,15000,No,Fatima
+100047,20/04/2026,LG-01,Lagos,In-store,Home,Standing Fan,C1179,Returning,4,58000,0,232000,39000,No,Aisha
+100048,17/01/2026,KN-01,Kano,In-store,Electronics,Power Bank,C1135,New,2,26000,0.05,49400,15000,No,Grace
+100049,09/06/2026,IB-01,Ibadan,In-store,Accessories,USB Cable,C1094,New,5,6500,0.05,30875,2200,No,Aisha
+100050,03/02/2026,KN-01,Kano,In-store,Accessories,Phone Case,C1080,Returning,3,9000,0,27000,3500,No,Chinedu
+100051,13/01/2026,AB-02,Abuja,Online,Home,Blender,C1111,New,2,42000,0.1,75600,,No,Chinedu
+100052,11/01/2026,PH-01,Port Harcourt,WhatsApp,Electronics,Smartphone,C1005,Returning,4,165000,0,660000,112000,No,Chinedu
+100053,07/06/2026,KN-01,Kano,In-store,Accessories,USB Cable,C1193,Returning,4,6500,0,26000,2200,No,Ibrahim
+100054,28/04/2026,AB-01,Abuja,In-store,Accessories,Phone Case,C1030,Returning,1,9000,0.1,8100,3500,No,Aisha
+100055,05/06/2026,KN-01,Kano,In-store,Electronics,Power Bank,C1019,New,2,26000,0.15,44200,15000,No,Bola
+100056,18/06/2026,KN-01,Kano,In-store,Accessories,Phone Case,C1187,New,1,9000,0.05,6840,3500,No,Bola
+100057,23/06/2026,IB-01,Ibadan,Online,Electronics,Power Bank,C1190,New,1,26000,0.15,22100,15000,No,Fatima
+100058,28/04/2026,KN-01,Kano,In-store,Accessories,Backpack,C1069,Returning,2,28000,0,56000,16000,No,Aisha
+100059,17/01/2026,LG-02,Lagos,Online,Home,Blender,C1074,Returning,2,42000,0.1,75600,28000,No,Aisha
+100060,24/01/2026,IB-01,Ibadan,Online,Electronics,Earbuds,C1156,Returning,1,32000,0.1,28800,19000,No,Bola
+100061,17/08/2026,LG-02,Lagos,In-store,Electronics,Earbuds,C1039,Returning,1,32000,0.15,27200,19000,No,Aisha
+100062,19/05/2026,PH-01,Port Harcourt,Online,Electronics,Smartphone,C1045,New,3,165000,0,495000,112000,No,Aisha
+100063,02/04/2026,LG-02,Lagos,In-store,Home,Standing Fan,C1164,New,1,58000,0,58000,39000,No,Fatima
+100064,21/07/2026,LG-01,Lagos,WhatsApp,Home,Electric Kettle,C1179,New,1,24000,0.05,22800,15000,No,Kemi
+100065,30/05/2026,PH-01,Port Harcourt,In-store,Electronics,Smartphone,C1055,Returning,4,165000,0.1,594000,112000,No,David
+100066,26/03/2026,IB-01,Ibadan,Online,Home,Blender,C1106,Returning,3,42000,0.1,113400,28000,No,Kemi
+100067,07/07/2026,AB-02,Abuja,WhatsApp,Accessories,Backpack,C1157,New,3,28000,0.15,57120,16000,No,David
+100068,30/03/2026,AB-02,Abuja,Online,Accessories,Backpack,C1000,New,4,28000,0.05,106400,16000,No,David
+100069,11/03/2026,PH-01,Port Harcourt,In-store,Electronics,Smartphone,C1032,New,3,165000,0.05,470250,112000,No,Bola
+100070,05/05/2026,PH-01,Port Harcourt,In-store,Home,Standing Fan,C1024,New,3,58000,0,174000,,No,Ibrahim
+100071,06/01/2026,LG-02,Lagos,Online,Electronics,Power Bank,C1018,Returning,4,26000,0.1,93600,15000,No,Chinedu
+100072,09/06/2026,IB-01,Ibadan,In-store,Home,Standing Fan,C1058,New,3,58000,0.1,125280,39000,No,Grace
+100073,05/03/2026,AB-01,Abuja,Online,Electronics,Power Bank,C1086,Returning,1,26000,0.1,23400,15000,Yes,Bola
+100074,20/04/2026,IB-01,Ibadan,In-store,Accessories,USB Cable,C1043,New,4,6500,0.05,24700,2200,No,Chinedu
+100075,22/08/2026,LG-01,Lagos,In-store,Electronics,Smartphone,C1188,Returning,1,165000,0.05,156750,112000,No,Fatima
+100076,11/02/2026,LG-01,Lagos,In-store,Electronics,Power Bank,C1104,New,4,26000,0,104000,15000,No,Aisha
+100077,14/05/2026,LG-02,Lagos,In-store,Accessories,Phone Case,C1192,New,2,9000,0.15,15300,3500,No,Chinedu
+100078,06/07/2026,LG-01,Lagos,In-store,Accessories,USB Cable,C1108,Returning,2,6500,0.1,11700,2200,No,Kemi
+100079,05/02/2026,LG-02,Lagos,In-store,Home,Standing Fan,C1159,Returning,2,58000,0.1,104400,39000,No,Aisha
+100080,21/08/2026,IB-01,Ibadan,Online,Accessories,Backpack,C1017,Returning,2,28000,0.1,50400,16000,No,Kemi
+100081,09/05/2026,LG-02,Lagos,Online,Electronics,Earbuds,C1143,New,2,32000,0,64000,19000,No,Aisha
+100082,07/05/2026,AB-01,Abuja,Online,Electronics,Smartphone,C1089,New,2,165000,0.1,297000,,No,Fatima
+100083,26/02/2026,LG-02,Lagos,In-store,Electronics,Smartphone,C1133,Returning,3,165000,0.1,445500,112000,Yes,Fatima
+100084,23/07/2026,AB-01,Abuja,In-store,Electronics,Power Bank,C1097,New,4,26000,0,104000,15000,Yes,Kemi
+100085,24/07/2026,PH-01,Port Harcourt,WhatsApp,Electronics,Power Bank,C1020,Returning,3,26000,0,78000,15000,No,Aisha
+100086,15/02/2026,KN-01,Kano,Online,Electronics,Earbuds,C1177,Returning,4,32000,0.1,115200,19000,No,Fatima
+100087,10/01/2026,AB-01,Abuja,WhatsApp,Accessories,Backpack,C1150,Returning,3,28000,0.15,71400,16000,No,Fatima
+100088,18/06/2026,KN-01,Kano,WhatsApp,Electronics,Earbuds,C1128,Returning,5,32000,0.05,152000,19000,Yes,Chinedu
+100089,02/01/2026,KN-01,Kano,In-store,Home,Blender,C1089,Returning,1,42000,0.05,39900,28000,No,Bola
+100090,04/03/2026,KN-01,Kano,Online,Home,Blender,C1169,Returning,4,42000,0.05,159600,28000,No,Kemi
+100091,17/06/2026,PH-01,Port Harcourt,Online,Accessories,Phone Case,C1166,New,2,9000,0.1,16200,3500,No,Grace
+100092,11/05/2026,PH-01,Port Harcourt,In-store,Home,Blender,C1108,Returning,4,42000,0.1,166320,28000,No,Bola
+100093,27/04/2026,AB-01,Abuja,In-store,Accessories,Phone Case,C1031,Returning,5,9000,0.2,36000,,No,Fatima
+100094,20/07/2026,LG-02,Lagos,In-store,Home,Blender,C1036,Returning,4,42000,0.05,127680,28000,No,Fatima
+100095,06/05/2026,LG-01,Lagos,Online,Accessories,Phone Case,C1092,New,1,9000,0.05,8550,3500,No,Aisha
+100096,27/01/2026,AB-02,Abuja,Online,Electronics,Power Bank,C1038,Returning,3,26000,0,78000,,No,David
+100097,10/04/2026,PH-01,Port Harcourt,In-store,Electronics,Power Bank,C1134,Returning,4,26000,0,104000,15000,No,Bola
+100098,21/02/2026,LG-01,Lagos,Online,Home,Blender,C1071,New,1,42000,0.05,39900,28000,No,Fatima
+100099,08/03/2026,LG-01,Lagos,In-store,Electronics,Earbuds,C1111,New,2,32000,0,64000,19000,No,Fatima
+100100,05/03/2026,LG-02,Lagos,In-store,Electronics,Earbuds,C1048,New,3,32000,0.05,91200,19000,No,Ibrahim
+100101,10/07/2026,AB-02,Abuja,In-store,Accessories,Phone Case,C1052,Returning,5,9000,0.05,42750,3500,No,Chinedu
+100102,26/06/2026,LG-02,Lagos,WhatsApp,Home,Electric Kettle,C1014,Returning,2,24000,0,48000,15000,No,Ibrahim
+100103,20/06/2026,AB-01,Abuja,Online,Electronics,Smartphone,C1110,New,1,165000,0,165000,112000,Yes,Bola
+100104,13/02/2026,LG-01,Lagos,In-store,Electronics,Smartphone,C1167,New,3,165000,0,495000,112000,No,Grace
+100105,04/06/2026,IB-01,Ibadan,WhatsApp,Home,Standing Fan,C1002,New,2,58000,0,116000,39000,No,David
+100106,01/03/2026,IB-01,Ibadan,In-store,Home,Blender,C1170,Returning,5,42000,0.05,199500,28000,No,Kemi
+100107,27/01/2026,PH-01,Port Harcourt,In-store,Home,Standing Fan,C1082,Returning,1,58000,0.1,52200,39000,No,Aisha
+100108,22/05/2026,AB-02,Abuja,In-store,Accessories,USB Cable,C1021,Returning,1,6500,0.15,5525,2200,No,David
+100109,31/07/2026,AB-02,Abuja,WhatsApp,Accessories,Phone Case,C1078,Returning,2,9000,0.15,15300,3500,No,Fatima
+100110,13/07/2026,LG-02,Lagos,In-store,Home,Blender,C1017,New,1,42000,0,42000,28000,No,David
+100111,31/07/2026,LG-02,Lagos,In-store,Accessories,Backpack,C1145,Returning,1,28000,0.05,26600,16000,No,Fatima
+100112,26/01/2026,KN-01,Kano,In-store,Electronics,Power Bank,C1091,New,2,26000,0.1,46800,15000,No,Chinedu
+100113,12/02/2026,AB-02,Abuja,In-store,Home,Standing Fan,C1045,New,3,58000,0.05,165300,39000,No,Kemi
+100114,21/06/2026,AB-01,Abuja,Online,Accessories,USB Cable,C1044,Returning,2,6500,0.25,9750,2200,No,Chinedu
+100115,31/03/2026,LG-02,Lagos,Online,Electronics,Power Bank,C1098,New,2,26000,0.1,46800,15000,No,Aisha
+100116,03/02/2026,PH-01,Port Harcourt,In-store,Accessories ,Backpack,C1190,Returning,5,28000,0,140000,16000,No,Kemi
+100117,10/04/2026,LG-02,Lagos,In-store,Accessories,Phone Case,C1055,New,4,9000,0,36000,3500,No,Ibrahim
+100118,26/08/2026,IB-01,Ibadan,WhatsApp,Electronics,Power Bank,C1048,New,3,26000,0,78000,15000,No,David
+100119,28/06/2026,LG-02,Lagos,WhatsApp,Accessories,Phone Case,C1059,Returning,4,9000,0,36000,3500,No,Fatima
+100120,26/01/2026,LG-01,Lagos,In-store,Electronics,Smartphone,C1194,Returning,1,165000,0,165000,112000,Yes,David
+100121,14/08/2026,IB-01,Ibadan,In-store,Accessories,Phone Case,C1124,New,4,9000,0,32400,3500,No,Bola
+100122,23/07/2026,PH-01,Port Harcourt,In-store,Home,Electric Kettle,C1173,New,3,24000,0,72000,15000,No,Ibrahim
+100123,30/05/2026,AB-01,Abuja,In-store,Electronics,Earbuds,C1020,Returning,4,32000,0.1,115200,19000,No,Fatima
+100124,24/07/2026,KN-01,Kano,Online,Electronics,Earbuds,C1080,Returning,3,32000,0.15,81600,19000,No,David
+100125,28/02/2026,PH-01,Port Harcourt,In-store,Electronics,Earbuds,C1184,Returning,3,32000,0.15,81600,19000,No,Chinedu
+100126,18/07/2026,AB-02,Abuja,WhatsApp,Electronics,Smartphone,C1004,Returning,2,165000,0.25,247500,112000,No,Ibrahim
+100127,10/01/2026,AB-01,Abuja,Online,Accessories,Phone Case,C1129,Returning,3,9000,0.25,20250,,No,Bola
+100128,01/04/2026,AB-01,Abuja,WhatsApp,Electronics,Smartphone,C1124,New,2,165000,0,330000,,No,David
+100129,02/04/2026,PH-01,Port Harcourt,WhatsApp,Accessories,Backpack,C1062,New,2,28000,0.05,53200,16000,No,Chinedu
+100130,14/04/2026,LG-02,Lagos,WhatsApp,Accessories,Phone Case,C1046,New,2,9000,0,18000,3500,No,Kemi
+100131,09/03/2026,LG-02,Lagos,WhatsApp,Home,Blender,C1191,New,1,42000,0,42000,28000,No,David
+100132,24/08/2026,PH-01,Port Harcourt,In-store,Electronics,Power Bank,C1076,Returning,4,26000,0,104000,15000,No,Aisha
+100133,29/06/2026,KN-01,Kano,In-store,Home,Electric Kettle,C1153,Returning,1,24000,0,24000,15000,No,Kemi
+100134,03/05/2026,AB-02,Abuja,Online,Home,Standing Fan,C1016,Returning,3,58000,0.25,130500,39000,No,Ibrahim
+100135,09/04/2026,KN-01,Kano,WhatsApp,Home,Electric Kettle,C1003,Returning,1,24000,0.15,20400,15000,No,Kemi
+100136,09/02/2026,KN-01,Kano,In-store,Electronics,Power Bank,C1149,New,2,26000,0.15,44200,15000,No,Fatima
+100137,09/05/2026,LG-01,Lagos,Online,Home,Blender,C1072,Returning,2,42000,0,84000,28000,No,David
+100138,25/04/2026,IB-01,Ibadan,In-store,Electronics,Earbuds,C1161,Returning,4,32000,0,128000,19000,No,Fatima
+100139,03/02/2026,LG-01,Lagos,In-store,Accessories,Backpack,C1146,New,3,28000,0.05,79800,16000,No,Bola
+100140,19/03/2026,LG-02,Lagos,In-store,Accessories,USB Cable,C1002,Returning,2,6500,0.15,11050,2200,No,Ibrahim
+100141,21/01/2026,LG-02,Lagos,In-store,Home,Blender,C1068,Returning,18,42000,0,756000,28000,No,Ibrahim
+100142,17/04/2026,IB-01,Ibadan,Online,Electronics,Earbuds,C1088,New,1,32000,0,32000,19000,No,Kemi
+100143,14/06/2026,LG-02,Lagos,In-store,Electronics,Smartphone,C1164,Returning,2,165000,0,330000,112000,No,Ibrahim
+100144,20/04/2026,IB-01,Ibadan,WhatsApp,Electronics,Earbuds,C1139,New,2,32000,0.15,54400,19000,Yes,Grace
+100145,29/04/2026,IB-01,Ibadan,In-store,Accessories,Backpack,C1018,New,1,28000,0,28000,16000,No,Chinedu
+100146,27/03/2026,KN-01,Kano,Online,Electronics,Earbuds,C1128,Returning,1,32000,0.1,28800,19000,No,Ibrahim
+100147,15/04/2026,PH-01,Port Harcourt,In-store,Home,Blender,C1172,New,2,42000,0.05,79800,28000,No,Chinedu
+100148,24/07/2026,PH-01,Port Harcourt,Online,Home,Electric Kettle,C1069,Returning,1,24000,0.05,22800,15000,No,Chinedu
+100149,16/01/2026,LG-02,Lagos,In-store,Accessories,Phone Case,C1150,Returning,4,9000,0.05,34200,3500,No,Grace
+100150,10/01/2026,IB-01,Ibadan,Online,Electronics,Power Bank,C1044,Returning,1,26000,0.1,23400,15000,No,Grace
+100151,06/02/2026,KN-01,Kano,Online,Electronics,Smartphone,C1186,New,1,165000,0.15,140250,112000,No,Chinedu
+100152,30/01/2026,LG-02,Lagos,WhatsApp,Accessories,USB Cable,C1076,Returning,1,6500,0,6500,2200,No,Ibrahim
+100153,02/07/2026,AB-02,Abuja,WhatsApp,Electronics,Earbuds,C1117,Returning,1,32000,0.25,24000,19000,No,Fatima
+100154,15/02/2026,IB-01,Ibadan,In-store,Electronics,Earbuds,C1024,New,1,32000,0,32000,,No,Fatima
+100155,25/06/2026,LG-02,Lagos,In-store,Accessories,Backpack,C1005,New,5,28000,0.15,119000,16000,No,Chinedu
+100156,12/07/2026,LG-01,Lagos,In-store,Electronics,Earbuds,C1004,New,1,32000,0,32000,19000,No,Kemi
+100157,27/03/2026,IB-01,Ibadan,Online,Electronics,Earbuds,C1105,New,1,32000,0.1,28800,19000,No,Grace
+100158,06/06/2026,PH-01,Port Harcourt,Online,Accessories,Phone Case,C1067,New,2,9000,0.05,17100,,No,Kemi
+100159,01/07/2026,LG-01,Lagos,In-store,Home,Electric Kettle,C1184,New,1,24000,0,24000,15000,No,David
+100160,23/02/2026,LG-02,Lagos,Online,Home,Electric Kettle,C1008,Returning,1,24000,0,24000,15000,No,Grace
+100161,27/07/2026,IB-01,Ibadan,WhatsApp,Home,Standing Fan,C1096,Returning,3,58000,0,174000,39000,No,David
+100162,17/04/2026,IB-01,Ibadan,WhatsApp,Accessories,Phone Case,C1119,New,1,9000,0,9000,,No,Fatima
+100163,26/06/2026,KN-01,Kano,Online,Electronics,Power Bank,C1158,New,5,26000,0.15,88400,15000,No,Bola
+100164,25/03/2026,KN-01,Kano,Online,Electronics,Smartphone,C1037,Returning,5,165000,0.05,783750,112000,No,Chinedu
+100165,17/05/2026,LG-01,Lagos,Online,Electronics,Smartphone,C1036,Returning,1,165000,0,165000,112000,No,Fatima
+100166,02/05/2026,LG-01,Lagos,Online,Electronics,Earbuds,C1013,Returning,3,32000,0.05,91200,19000,No,Aisha
+100167,18/08/2026,LG-02,Lagos,WhatsApp,Electronics,Earbuds,C1023,New,1,32000,0.1,28800,19000,No,Aisha
+100168,17/08/2026,KN-01,Kano,WhatsApp,Electronics,Earbuds,C1134,New,22,32000,0.05,668800,19000,Yes,Chinedu
+100169,02/02/2026,AB-01,Abuja,WhatsApp,Electronics,Power Bank,C1176,Returning,3,26000,0.15,66300,15000,Yes,David
+100170,16/05/2026,LG-02,Lagos,In-store,Electronics,Power Bank,C1004,New,1,26000,0.05,24700,15000,No,Ibrahim
+100171,24/07/2026,KN-01,Kano,Online,Home,Electric Kettle,C1026,Returning,3,24000,0.15,61200,15000,No,Grace
+100172,29/03/2026,IB-01,Ibadan,In-store,Accessories,Backpack,C1172,New,2,28000,0.15,52360,16000,No,David
+100173,30/01/2026,KN-01,Kano,Online,Accessories,USB Cable,C1102,Returning,1,6500,0.1,5850,2200,Yes,Chinedu
+100174,03/08/2026,LG-01,Lagos,In-store,Accessories,USB Cable,C1096,Returning,2,6500,0.15,11050,2200,No,Aisha
+100175,17/01/2026,AB-02,Abuja,In-store,Home,Electric Kettle,C1102,Returning,5,24000,0.25,90000,15000,No,David
+100176,21/08/2026,IB-01,Ibadan,Online,Accessories,Phone Case,C1134,New,2,9000,0.1,16200,3500,No,Ibrahim
+100177,07/06/2026,AB-02,Abuja,WhatsApp,Home,Standing Fan,C1123,New,1,58000,0.2,46400,39000,No,Kemi
+100178,14/03/2026,KN-01,Kano,In-store,Accessories,USB Cable,C1029,Returning,2,6500,0.15,11050,,No,Grace
+100179,04/03/2026,KN-01,Kano,In-store,Electronics,Earbuds,C1120,Returning,5,32000,0.15,136000,19000,No,Grace
+100180,25/05/2026,LG-02,Lagos,In-store,Accessories,Backpack,C1161,New,3,28000,0.05,79800,16000,No,Chinedu
+100181,30/01/2026,PH-01,Port Harcourt,Online,Home,Electric Kettle,C1112,Returning,1,24000,0.1,21600,15000,Yes,Chinedu
+100182,13/03/2026,AB-01,Abuja,Online,Accessories,Backpack,C1097,Returning,2,28000,0.2,44800,16000,Yes,Kemi
+100183,16/07/2026,IB-01,Ibadan,In-store,Home,Standing Fan,C1061,Returning,5,58000,0.15,246500,39000,No,Grace
+100184,22/01/2026,LG-02,Lagos,In-store,Home,Blender,C1102,New,1,42000,0,42000,28000,No,David
+100185,13/01/2026,AB-01,Abuja,WhatsApp,Home,Blender,C1165,Returning,2,42000,0.15,71400,28000,No,Kemi
+100186,19/01/2026,AB-02,Abuja,Online,Accessories ,Phone Case,C1014,New,2,9000,0.05,17100,3500,No,Grace
+100187,03/01/2026,KN-01,Kano,In-store,Home,Standing Fan,C1181,New,2,58000,0.1,104400,39000,No,Ibrahim
+100188,28/05/2026,KN-01,Kano,Online,Electronics,Earbuds,C1170,New,1,32000,0.1,28800,,No,Kemi
+100189,24/04/2026,AB-02,Abuja,WhatsApp,Accessories,USB Cable,C1117,Returning,1,6500,0.05,6175,2200,No,Chinedu
+100190,16/05/2026,LG-01,Lagos,WhatsApp,Home,Blender,C1022,Returning,2,42000,0.15,71400,28000,No,Bola
+100191,29/01/2026,IB-01,Ibadan,In-store,Accessories,USB Cable,C1026,New,3,6500,0.1,17550,2200,No,David
+100192,07/03/2026,KN-01,Kano,Online,Electronics,Smartphone,C1128,Returning,2,165000,0.1,267300,112000,No,David
+100193,23/07/2026,PH-01,Port Harcourt,Online,Electronics,Power Bank,C1112,New,3,26000,0.1,70200,15000,No,Bola
+100194,23/05/2026,AB-02,Abuja,WhatsApp,Electronics,Smartphone,C1150,Returning,3,165000,0.25,371250,112000,No,Bola
+100195,28/03/2026,PH-01,Port Harcourt,In-store,Home,Electric Kettle,C1188,New,2,24000,0.05,45600,15000,No,Ibrahim
+100196,25/02/2026,LG-02,Lagos ,In-store,Electronics,Earbuds,C1147,Returning,4,32000,0.1,115200,19000,No,Grace
+100197,01/08/2026,AB-01,Abuja,Online,Accessories,Phone Case,C1152,Returning,1,9000,0.25,6750,3500,Yes,Kemi
+100198,30/04/2026,KN-01,Kano,Online,Electronics,Smartphone,C1024,Returning,2,165000,0.05,313500,112000,No,Fatima
+100199,28/05/2026,IB-01,Ibadan,WhatsApp,Accessories,Backpack,C1135,Returning,2,28000,0.05,53200,16000,No,David
+100200,02/01/2026,KN-01,Kano,In-store,Accessories,Backpack,C1108,Returning,2,28000,0.05,53200,16000,No,Ibrahim
+100201,22/02/2026,KN-01,Kano,Online,Accessories,USB Cable,C1161,New,4,6500,0,26000,2200,Yes,Aisha
+100202,25/07/2026,AB-01,Abuja,Online,Accessories,USB Cable,C1097,New,1,6500,0.05,6175,2200,No,Fatima
+100203,09/05/2026,AB-01,Abuja,In-store,Electronics,Smartphone,C1062,Returning,1,165000,0.25,123750,112000,No,Ibrahim
+100204,18/03/2026,AB-02,Abuja,In-store,Accessories,Phone Case,C1021,Returning,3,9000,0.25,20250,3500,No,Fatima
+100205,10/01/2026,PH-01,Port Harcourt,Online,Home,Electric Kettle,C1131,New,5,24000,0.1,108000,15000,No,Grace
+100206,10/08/2026,LG-02,Lagos,WhatsApp,Home,Standing Fan,C1097,New,1,58000,0.15,49300,39000,No,Aisha
+100207,31/03/2026,IB-01,Ibadan,In-store,Electronics,Smartphone,C1166,Returning,1,165000,0.1,148500,112000,No,Kemi
+100208,19/03/2026,AB-02,Abuja,In-store,Home,Standing Fan,C1076,Returning,2,58000,0.15,98600,,No,Kemi
+100209,04/07/2026,KN-01,Kano,In-store,Electronics,Power Bank,C1145,Returning,3,26000,0,78000,15000,No,Kemi
+100210,05/08/2026,PH-01,Port Harcourt,In-store,Electronics,Earbuds,C1119,Returning,1,32000,0,32000,19000,No,Grace
+100211,26/08/2026,KN-01,Kano,In-store,Home,Blender,C1081,Returning,4,42000,0,168000,28000,No,Fatima
+100212,05/04/2026,IB-01,Ibadan,Online,Home,Electric Kettle,C1156,Returning,2,24000,0.15,40800,15000,No,Ibrahim
+100213,01/01/2026,AB-02,Abuja,In-store,Electronics,Smartphone,C1085,New,2,165000,0.15,280500,,No,Fatima
+100214,05/03/2026,LG-01,Lagos,In-store,Accessories,USB Cable,C1165,New,2,6500,0.05,12350,2200,No,Grace
+100215,16/04/2026,KN-01,Kano,In-store,Electronics,Power Bank,C1024,New,3,26000,0,78000,15000,No,Grace
+100216,19/05/2026,LG-01,Lagos,Online,Accessories,USB Cable,C1076,New,4,6500,0,26000,2200,No,Chinedu
+100217,25/06/2026,LG-02,Lagos,Online,Home,Electric Kettle,C1144,Returning,2,24000,0.05,45600,15000,No,Fatima
+100218,08/04/2026,LG-02,Lagos,WhatsApp,Home,Standing Fan,C1098,New,3,58000,0.05,165300,39000,No,Fatima
+100219,19/08/2026,PH-01,Port Harcourt,In-store,Home,Standing Fan,C1107,Returning,5,58000,0.15,246500,39000,No,Grace
+100220,02/01/2026,KN-01,Kano,WhatsApp,Electronics,Power Bank,C1104,Returning,2,26000,0,52000,15000,No,Chinedu
+100221,30/03/2026,IB-01,Ibadan,In-store,Accessories,Backpack,C1003,Returning,3,28000,0.1,75600,16000,No,Fatima
+100222,21/08/2026,AB-02,Abuja,WhatsApp,Home,Standing Fan,C1178,New,3,58000,0.25,130500,,Yes,Ibrahim
+100223,23/05/2026,PH-01,Port Harcourt,WhatsApp,Home,Blender,C1033,Returning,3,42000,0.15,107100,28000,No,David
+100224,07/05/2026,LG-02,Lagos,Online,Electronics,Earbuds,C1013,Returning,1,32000,0.1,28800,19000,No,Grace
+100225,26/02/2026,KN-01,Kano,Online,Home,Electric Kettle,C1126,New,1,24000,0.05,22800,15000,No,Kemi
+100226,01/02/2026,IB-01,Ibadan,In-store,Home,Electric Kettle,C1032,Returning,1,24000,0.05,22800,15000,No,Fatima
+100227,02/04/2026,PH-01,Port Harcourt,In-store,Home,Standing Fan,C1137,Returning,2,58000,0,116000,39000,No,Aisha
+100228,18/03/2026,LG-01,Lagos,In-store,Electronics,Earbuds,C1059,New,3,32000,0.15,81600,19000,No,Chinedu
+100229,09/07/2026,KN-01,Kano,Online,Home,Standing Fan,C1126,Returning,1,58000,0.1,52200,39000,No,Chinedu
+100230,29/04/2026,KN-01,Kano,In-store,Electronics,Power Bank,C1074,Returning,3,26000,0.15,66300,15000,No,Aisha
+100231,28/03/2026,AB-01,Abuja,WhatsApp,Electronics,Smartphone,C1142,Returning,1,165000,0.2,132000,112000,No,Grace
+100232,03/08/2026,LG-01,Lagos,In-store,Electronics,Smartphone,C1059,New,1,165000,0.1,148500,112000,Yes,David
+100233,08/01/2026,IB-01,Ibadan,In-store,Accessories,Phone Case,C1097,Returning,3,9000,0.15,27540,3500,No,David
+100234,21/01/2026,KN-01,Kano,Online,Accessories,Phone Case,C1091,New,2,9000,0.1,16200,3500,No,Bola
+100235,22/05/2026,IB-01,Ibadan,WhatsApp,Home,Electric Kettle,C1064,New,2,24000,0.1,38880,15000,No,Aisha
+100236,10/03/2026,KN-01,Kano,In-store,Accessories,USB Cable,C1021,Returning,3,6500,0.1,17550,2200,No,Grace
+100237,13/06/2026,LG-01,Lagos,In-store,Electronics,Power Bank,C1054,New,4,26000,0.1,93600,15000,No,Ibrahim
+100238,11/01/2026,PH-01,Port Harcourt,Online,Home,Electric Kettle,C1025,New,2,24000,0,48000,15000,No,Bola
+100239,14/06/2026,PH-01,Port Harcourt,WhatsApp,Electronics,Smartphone,C1101,Returning,1,165000,0.15,140250,112000,No,Chinedu
+100240,16/01/2026,LG-01,Lagos,Online,Electronics,Power Bank,C1136,New,3,26000,0.15,66300,15000,No,Chinedu
+100241,03/03/2026,LG-02,Lagos,Online,Accessories,USB Cable,C1023,Returning,4,6500,0.1,23400,2200,No,Grace
+100242,09/03/2026,KN-01,Kano,In-store,Home,Electric Kettle,C1116,New,2,24000,0.1,43200,15000,Yes,Kemi
+100243,16/07/2026,LG-01,Lagos,Online,Home,Electric Kettle,C1013,New,5,24000,0.1,108000,15000,No,Fatima
+100244,29/01/2026,KN-01,Kano,WhatsApp,Electronics,Power Bank,C1140,Returning,3,26000,0.05,74100,15000,No,Kemi
+100245,26/06/2026,LG-02,Lagos,Online,Accessories,Backpack,C1071,New,1,28000,0.15,23800,16000,No,Bola
+100246,28/07/2026,KN-01,Kano,In-store,Electronics,Smartphone,C1045,New,1,165000,0.05,156750,112000,No,Chinedu
+100247,03/08/2026,AB-01,Abuja,In-store,Home,Electric Kettle,C1063,Returning,2,24000,0.2,38400,,No,Grace
+100248,22/07/2026,LG-01,Lagos,In-store,Accessories,USB Cable,C1049,Returning,1,6500,0.05,6175,2200,No,Ibrahim
+100249,04/04/2026,KN-01,Kano,Online,Home,Blender,C1027,New,2,42000,0.1,75600,28000,No,Bola
+100250,28/04/2026,IB-01,Ibadan,In-store,Electronics,Smartphone,C1025,New,4,165000,0,660000,112000,No,Bola
+100251,23/07/2026,LG-01,Lagos,In-store,Home,Blender,C1147,Returning,2,42000,0,84000,28000,No,Bola
+100252,11/07/2026,KN-01,Kano,In-store,Electronics,Power Bank,C1117,Returning,2,26000,0,52000,15000,No,David
+100253,02/01/2026,PH-01,Port Harcourt,WhatsApp,Home,Standing Fan,C1021,Returning,2,58000,0.05,110200,39000,No,Ibrahim
+100254,11/04/2026,KN-01,Kano,Online,Home,Standing Fan,C1193,Returning,2,58000,0.1,104400,39000,No,Grace
+100255,05/05/2026,LG-02,Lagos,Online,Home,Electric Kettle,C1127,New,5,24000,0.15,102000,15000,Yes,Kemi
+100256,23/07/2026,KN-01,Kano,In-store,accessories,USB Cable,C1050,New,1,6500,0.05,6175,2200,No,Aisha
+100257,04/03/2026,LG-01,Lagos,Online,Home,Standing Fan,C1149,Returning,1,58000,0.05,55100,39000,No,Bola
+100258,01/07/2026,PH-01,Port Harcourt,WhatsApp,Home,Blender,C1155,New,4,42000,0.15,142800,28000,No,Aisha
+100259,23/07/2026,AB-01,Abuja,In-store,Electronics,Smartphone,C1033,Returning,1,165000,0.25,136125,112000,Yes,Grace
+100260,14/04/2026,PH-01,Port Harcourt,WhatsApp,Electronics,Earbuds,C1190,Returning,2,32000,0.15,54400,19000,No,Ibrahim
+100261,06/03/2026,AB-02,Abuja,In-store,Electronics,Power Bank,C1146,New,4,26000,0,104000,15000,No,Chinedu
+100262,10/02/2026,IB-01,Ibadan,Online,Home,Electric Kettle,C1044,New,4,24000,0.05,91200,15000,No,Bola
+100263,22/01/2026,AB-02,Abuja,In-store,Accessories,Phone Case,C1032,New,5,9000,0.25,33750,3500,No,David
+100264,05/04/2026,KN-01,Kano,In-store,Home,Blender,C1058,Returning,1,42000,0.05,39900,28000,No,David
+100265,31/01/2026,PH-01,Port Harcourt,In-store,Electronics,Earbuds,C1087,Returning,2,32000,0,64000,19000,No,Chinedu
+100266,15/06/2026,KN-01,Kano,WhatsApp,Home,Electric Kettle,C1055,New,4,24000,0,96000,15000,No,Ibrahim
+100267,01/05/2026,PH-01,Port Harcourt,In-store,Electronics,Power Bank,C1013,Returning,1,26000,0.05,24700,15000,No,Fatima
+100268,01/03/2026,LG-02,Lagos,Online,Home,Standing Fan,C1078,Returning,2,58000,0,116000,39000,No,Ibrahim
+100269,07/04/2026,AB-01,Abuja,WhatsApp,Electronics,Power Bank,C1194,Returning,5,26000,0.15,110500,15000,No,Kemi
+100270,16/06/2026,PH-01,Port Harcourt,Online,Accessories,Backpack,C1182,Returning,4,28000,0,112000,16000,No,Grace
+100271,25/04/2026,IB-01,Ibadan,Online,Electronics,Smartphone,C1149,New,1,165000,0,165000,112000,No,Chinedu
+100272,19/03/2026,LG-02,Lagos,In-store,Home,Blender,C1078,Returning,1,42000,0,42000,28000,No,Fatima
+100273,15/01/2026,IB-01,Ibadan,Online,Electronics,Smartphone,C1053,New,2,165000,0.05,313500,112000,No,Bola
+100274,26/08/2026,PH-01,Port Harcourt,Online,Accessories,Backpack,C1091,Returning,3,28000,0,84000,16000,No,Fatima
+100275,14/05/2026,LG-01,Lagos,Online,Electronics,Power Bank,C1135,New,22,26000,0.05,543400,15000,No,David
+100276,22/06/2026,LG-02,Lagos,Online,Home,Electric Kettle,C1016,New,2,24000,0.1,43200,15000,No,David
+100277,28/07/2026,LG-01,Lagos,In-store,Electronics,Power Bank,C1038,New,22,26000,0,572000,15000,No,Grace
+100278,27/06/2026,LG-01,Lagos,In-store,Electronics,Power Bank,C1144,New,3,26000,0.1,56160,15000,No,Fatima
+100279,21/02/2026,AB-02,Abuja,Online,Accessories,USB Cable,C1082,Returning,4,6500,0.15,22100,2200,No,Ibrahim
+100280,16/06/2026,LG-01,Lagos,WhatsApp,Electronics,Earbuds,C1041,Returning,1,32000,0.05,30400,19000,No,Grace
+100281,15/05/2026,LG-01,Lagos,WhatsApp,Electronics,Power Bank,C1035,New,1,26000,0.15,22100,15000,No,Bola
+100282,07/05/2026,LG-01,Lagos,In-store,Electronics,Power Bank,C1159,Returning,2,26000,0.05,49400,15000,No,Kemi
+100283,26/08/2026,LG-01,Lagos,In-store,Home,Standing Fan,C1108,Returning,1,58000,0.05,55100,39000,No,Bola
+100284,11/08/2026,AB-02,Abuja,In-store,Home,Electric Kettle,C1115,New,4,24000,0.1,95040,15000,No,Fatima
+100285,18/07/2026,KN-01,Kano,Online,Home,Electric Kettle,C1172,Returning,1,24000,0.05,22800,15000,No,David
+100286,16/03/2026,KN-01,Kano,Online,Accessories,Phone Case,C1130,Returning,1,9000,0.1,8100,3500,No,Aisha
+100287,25/02/2026,PH-01,Port Harcourt,Online,Electronics,Earbuds,C1114,New,3,32000,0.05,91200,19000,No,Grace
+100288,04/06/2026,IB-01,Ibadan,In-store,Electronics,Power Bank,C1062,Returning,1,26000,0.05,24700,15000,No,Chinedu
+100289,21/07/2026,LG-01,Lagos,In-store,Electronics,Earbuds,C1057,New,3,32000,0.1,86400,19000,No,David
+100290,04/04/2026,LG-01,Lagos,In-store,Electronics,Earbuds,C1083,Returning,5,32000,0.15,136000,19000,No,Ibrahim
+100291,29/03/2026,IB-01,Ibadan,In-store,Electronics,Earbuds,C1073,Returning,1,32000,0.1,28800,19000,No,Fatima
+100292,18/04/2026,LG-02,Lagos,WhatsApp,Electronics,Smartphone,C1138,Returning,1,165000,0.15,140250,112000,No,Ibrahim
+100293,10/04/2026,PH-01,Port Harcourt,WhatsApp,Accessories,Backpack,C1150,New,2,28000,0,56000,16000,No,Bola
+100294,20/07/2026,IB-01,Ibadan,In-store,Electronics,Power Bank,C1041,New,3,26000,0.1,63180,15000,No,Fatima
+100295,13/02/2026,IB-01,Ibadan,WhatsApp,Electronics,Earbuds,C1010,New,1,32000,0.15,27200,19000,Yes,Kemi
+100296,26/04/2026,IB-01,Ibadan,WhatsApp,Electronics,Earbuds,C1170,New,2,32000,0.05,72960,,Yes,Bola
+100297,16/01/2026,IB-01,Ibadan,Online,Home,Standing Fan,C1082,New,1,58000,0,58000,39000,No,Chinedu
+100298,01/02/2026,LG-02,Lagos,Online,Electronics,Power Bank,C1162,Returning,4,26000,0.1,93600,15000,No,Fatima
+100299,06/07/2026,LG-01,Lagos,In-store,Accessories,Backpack,C1110,Returning,2,28000,0.1,50400,16000,No,Kemi
+100300,06/01/2026,PH-01,Port Harcourt,WhatsApp,Accessories,USB Cable,C1033,New,4,6500,0.1,23400,2200,No,Kemi
+100301,06/03/2026,LG-02,Lagos,In-store,Electronics,Power Bank,C1169,Returning,5,26000,0.05,98800,15000,Yes,Aisha
+100302,28/02/2026,LG-02,Lagos,In-store,Accessories,Backpack,C1179,Returning,4,28000,0,112000,16000,No,Bola
+100303,16/02/2026,IB-01,Ibadan,In-store,Accessories,Phone Case,C1032,Returning,2,9000,0.1,16200,3500,No,Ibrahim
+100304,01/07/2026,KN-01,Kano,WhatsApp,Home,Standing Fan,C1090,New,5,58000,0.1,261000,39000,No,Bola
+100305,10/01/2026,LG-01,Lagos,Online,Electronics,Earbuds,C1105,Returning,2,32000,0.05,60800,19000,No,Grace
+100306,14/03/2026,PH-01,Port Harcourt,In-store,Accessories,Phone Case,C1162,New,1,9000,0.15,7650,3500,No,Aisha
+100307,28/06/2026,IB-01,Ibadan,Online,Electronics,Power Bank,C1099,New,3,26000,0,78000,15000,No,Ibrahim
+100308,04/08/2026,LG-02,Lagos,Online,Home,Blender,C1088,Returning,1,42000,0.05,39900,28000,No,Aisha
+100309,12/05/2026,LG-02,Lagos,In-store,Accessories,USB Cable,C1093,New,3,6500,0.15,16575,2200,No,Ibrahim
+100310,04/03/2026,LG-01,Lagos,Online,Electronics,Earbuds,C1022,New,4,32000,0.1,115200,19000,No,Ibrahim
+100311,02/06/2026,AB-01,Abuja,Online,Accessory,USB Cable,C1143,Returning,1,6500,0.05,6175,,No,Aisha
+100312,27/02/2026,LG-02,Lagos,In-store,Electronics,Earbuds,C1007,New,3,32000,0.15,81600,19000,No,Kemi
+100313,07/08/2026,LG-01,LAGOS,In-store,Accessories,USB Cable,C1078,Returning,1,6500,0.05,6175,2200,No,David
+100314,25/03/2026,LG-02,Lagos ,In-store,Electronics,Smartphone,C1167,Returning,1,165000,0.1,148500,112000,No,Grace
+100315,06/04/2026,LG-02,Lagos,WhatsApp,Electronics,Power Bank,C1178,Returning,1,26000,0,26000,15000,No,Chinedu
+100316,12/05/2026,KN-01,Kano,Online,Electronics,Earbuds,C1100,New,5,32000,0,160000,19000,No,Chinedu
+100317,09/07/2026,IB-01,Ibadan,In-store,Home,Electric Kettle,C1099,Returning,1,24000,0.05,22800,15000,No,Kemi
+100318,06/06/2026,KN-01,Kano,In-store,Home,Standing Fan,C1070,Returning,2,58000,0.05,110200,39000,No,Grace
+100319,18/01/2026,AB-02,Abuja,In-store,Accessories,Backpack,C1108,New,4,28000,0.15,95200,16000,No,David
+100320,12/03/2026,AB-01,Abuja,In-store,Electronics,Earbuds,C1123,Returning,2,32000,0.2,51200,19000,No,Fatima
+100321,03/03/2026,LG-01,Lagos,In-store,Electronics,Smartphone,C1106,Returning,2,165000,0,330000,112000,No,Kemi
+100322,14/06/2026,LG-02,Lagos,Online,Home,Electric Kettle,C1176,New,1,24000,0.1,21600,15000,No,Grace
+100323,26/02/2026,IB-01,Ibadan,WhatsApp,Electronics,Smartphone,C1166,Returning,2,165000,0,330000,112000,No,Chinedu
+100324,16/01/2026,IB-01,Ibadan,In-store,Electronics,Smartphone,C1027,New,3,165000,0.1,445500,112000,No,David
+100325,17/08/2026,KN-01,Kano,WhatsApp,Home,Blender,C1120,Returning,3,42000,0.05,119700,28000,No,Chinedu
+100326,23/05/2026,IB-01,Ibadan,Online,Electronics,Earbuds,C1064,Returning,5,32000,0.05,152000,19000,No,Grace
+100327,29/04/2026,LG-02,Lagos,In-store,Electronics,Power Bank,C1123,New,1,26000,0.1,23400,15000,No,Kemi
+100328,02/05/2026,KN-01,Kano,WhatsApp,Home,Blender,C1079,Returning,1,42000,0.05,39900,28000,No,Grace
+100329,01/01/2026,IB-01,Ibadan,WhatsApp,Electronics,Earbuds,C1143,Returning,2,32000,0,64000,19000,Yes,Fatima
+100330,11/05/2026,LG-02,Lagos,In-store,Home,Standing Fan,C1034,New,2,58000,0.1,104400,39000,No,David
+100331,17/02/2026,KN-01,Kano,Online,Accessories,Phone Case,C1001,Returning,1,9000,0.05,8550,,No,Chinedu
+100332,19/03/2026,AB-01,Abuja,In-store,Electronics,Earbuds,C1024,New,1,32000,0.05,30400,19000,No,David
+100333,05/01/2026,AB-01,Abuja,Online,Electronics,Earbuds,C1174,New,5,32000,0.1,144000,19000,No,Grace
+100334,16/07/2026,LG-01,Lagos,In-store,Accessories,Phone Case,C1079,Returning,1,9000,0,9000,3500,No,Grace
+100335,04/01/2026,IB-01,Ibadan,Online,Electronics,Earbuds,C1105,New,1,32000,0.1,28800,19000,No,Aisha
+100336,04/03/2026,IB-01,Ibadan,WhatsApp,Electronics,Smartphone,C1154,Returning,2,165000,0.15,280500,112000,No,Fatima
+100337,04/03/2026,KN-01,Kano,In-store,Accessories,USB Cable,C1086,New,3,6500,0.15,16575,2200,No,Chinedu
+100338,31/03/2026,LG-01,Lagos,In-store,Home,Electric Kettle,C1069,New,2,24000,0.15,40800,15000,No,Aisha
+100339,04/02/2026,LG-01,Lagos,In-store,Electronics,Power Bank,C1025,New,2,26000,0.05,49400,15000,No,Grace
+100340,25/03/2026,AB-01,Abuja,Online,Electronics,Smartphone,C1028,Returning,1,165000,0.15,140250,112000,No,Ibrahim
+100341,08/06/2026,LG-01,Lagos ,In-store,Electronics,Smartphone,C1171,Returning,3,165000,0,495000,112000,No,Chinedu
+100342,31/01/2026,AB-01,Abuja,In-store,Electronics,Earbuds,C1127,Returning,4,32000,0,128000,,No,Ibrahim
+100343,14/07/2026,KN-01,Kano,In-store,Electronics,Smartphone,C1061,Returning,4,165000,0,660000,112000,Yes,Fatima
+100344,19/08/2026,IB-01,Ibadan,Online,Home,Electric Kettle,C1159,New,2,24000,0.1,43200,15000,No,Bola
+100345,16/01/2026,LG-01,Lagos,In-store,Home,Standing Fan,C1134,Returning,2,58000,0.15,98600,39000,No,Chinedu
+100346,12/02/2026,AB-01,Abuja,In-store,Accessories,Phone Case,C1049,Returning,2,9000,0.15,15300,3500,No,Ibrahim
+100347,21/02/2026,KN-01,Kano,In-store,Electronics,Earbuds,C1066,Returning,3,32000,0,96000,19000,No,Chinedu
+100348,22/07/2026,KN-01,Kano,In-store,Home,Electric Kettle,C1096,Returning,5,24000,0.05,114000,15000,No,Chinedu
+100349,29/04/2026,IB-01,Ibadan,In-store,Electronics,Earbuds,C1097,Returning,2,32000,0.15,54400,19000,No,Aisha
+100350,28/05/2026,LG-01,Lagos,In-store,Home,Blender,C1110,New,3,42000,0.15,96390,28000,No,Fatima
+100351,18/01/2026,KN-01,Kano,In-store,Electronics,Earbuds,C1029,New,2,32000,0.1,57600,19000,No,Bola
+100352,22/04/2026,LG-01,Lagos,Online,Electronics,Earbuds,C1071,New,2,32000,0.15,54400,19000,No,Bola
+100353,30/06/2026,AB-01,Abuja,Online,Accessories,Backpack,C1021,New,1,28000,0.15,23800,,No,Bola
+100354,15/01/2026,IB-01,Ibadan,Online,Accessories,Phone Case,C1091,Returning,1,9000,0.15,7650,3500,No,Fatima
+100355,18/03/2026,LG-02,Lagos,Online,Home,Blender,C1077,Returning,18,42000,0.1,680400,28000,No,Kemi
+100356,04/04/2026,IB-01,Ibadan,Online,Home,Standing Fan,C1178,Returning,4,58000,0,232000,39000,No,Bola
+100357,23/07/2026,AB-02,Abuja,In-store,Electronics,Power Bank,C1049,Returning,1,26000,0.2,20800,,No,David
+100358,09/05/2026,AB-02,Abuja,Online,Electronics,Power Bank,C1000,Returning,2,26000,0.1,46800,15000,Yes,Bola
+100359,12/08/2026,AB-02,Abuja,Online,Accessories,Backpack,C1185,New,1,28000,0,28000,,No,Fatima
+100360,01/07/2026,KN-01,Kano,Online,Home,Blender,C1008,Returning,1,42000,0.15,35700,28000,No,Kemi
+100361,06/01/2026,IB-01,Ibadan,Online,Accessories,USB Cable,C1151,New,2,6500,0.05,12350,2200,No,Aisha
+100362,24/03/2026,LG-02,Lagos,Online,Accessories,Phone Case,C1132,New,4,9000,0.15,30600,3500,No,Ibrahim
+100363,20/06/2026,IB-01,Ibadan,In-store,Home,Electric Kettle,C1190,Returning,2,24000,0.1,43200,15000,No,Ibrahim
+100364,23/07/2026,AB-01,Abuja,In-store,Home,Electric Kettle,C1015,Returning,2,24000,0.25,36000,15000,Yes,Fatima
+100365,22/06/2026,IB-01,Ibadan,WhatsApp,Electronics,Smartphone,C1169,Returning,4,165000,0.05,627000,112000,No,Chinedu
+100366,19/07/2026,AB-01,Abuja,WhatsApp,Home,Electric Kettle,C1027,Returning,1,24000,0.25,18000,15000,Yes,Bola
+100367,22/07/2026,KN-01,Kano,In-store,Accessories,Phone Case,C1187,Returning,2,9000,0,18000,3500,No,Kemi
+100368,13/07/2026,LG-02,Lagos,In-store,Accessories,USB Cable,C1102,Returning,4,6500,0.05,24700,2200,No,Bola
+100369,20/06/2026,KN-01,Kano,WhatsApp,Electronics,Power Bank,C1102,Returning,2,26000,0.05,59280,15000,No,Bola
+100370,12/06/2026,LG-01,Lagos,WhatsApp,Home,Standing Fan,C1002,Returning,1,58000,0.1,52200,39000,No,Grace
+100371,19/04/2026,IB-01,Ibadan,In-store,Home,Standing Fan,C1170,New,3,58000,0.1,156600,39000,No,Grace
+100372,31/07/2026,AB-01,Abuja,In-store,Home,Electric Kettle,C1124,Returning,1,24000,0,24000,15000,No,Grace
+100373,22/02/2026,AB-01,Abuja,In-store,Home,Standing Fan,C1025,New,2,58000,0.2,92800,39000,Yes,Chinedu
+100374,31/03/2026,KN-01,Kano,Online,Home,Electric Kettle,C1063,New,1,24000,0.05,22800,15000,No,Fatima
+100375,04/01/2026,AB-01,Abuja,In-store,Home,Blender,C1085,New,2,42000,0.25,63000,28000,No,Chinedu
+100376,28/01/2026,KN-01,Kano,In-store,Electronics,Smartphone,C1160,New,1,165000,0.1,148500,112000,No,Kemi
+100377,27/04/2026,LG-02,Lagos,In-store,Accessories,USB Cable,C1048,New,3,6500,0.05,18525,2200,Yes,Kemi
+100378,09/04/2026,IB-01,Ibadan,Online,Electronics,Smartphone,C1007,New,3,165000,0.05,470250,112000,No,Aisha
+100379,14/03/2026,AB-01,Abuja,In-store,Home,Standing Fan,C1022,Returning,3,58000,0.25,130500,39000,No,Ibrahim
+100380,29/01/2026,KN-01,Kano,WhatsApp,Electronics,Earbuds,C1119,Returning,2,32000,0.15,54400,19000,No,Kemi
+100381,03/04/2026,PH-01,Port Harcourt,In-store,Accessories,Phone Case,C1190,Returning,2,9000,0.05,17100,3500,No,Kemi
+100382,15/08/2026,PH-01,Port Harcourt,Online,Home,Blender,C1172,New,4,42000,0.15,142800,28000,No,Aisha
+100383,20/02/2026,LG-01,Lagos,In-store,Accessories,USB Cable,C1042,Returning,22,6500,0,143000,2200,No,David
+100384,24/07/2026,IB-01,Ibadan,Online,Home,Electric Kettle,C1026,Returning,3,24000,0.05,68400,15000,No,Ibrahim
+100385,02/07/2026,LG-02,Lagos,In-store,Electronics,Smartphone,C1111,Returning,3,165000,0,495000,112000,No,Kemi
+100386,27/01/2026,LG-01,Lagos,WhatsApp,Accessories,Phone Case,C1068,New,3,9000,0,27000,3500,No,Ibrahim
+100387,28/07/2026,IB-01,Ibadan,In-store,Electronics,Earbuds,C1175,Returning,4,32000,0.1,115200,19000,No,Kemi
+100388,25/08/2026,PH-01,Port Harcourt,In-store,Electronics,Earbuds,C1185,Returning,1,32000,0,32000,19000,No,Bola
+100389,17/06/2026,IB-01,Ibadan,In-store,Home,Electric Kettle,C1029,New,1,24000,0.05,22800,15000,No,Aisha
+100390,06/08/2026,KN-01,Kano,WhatsApp,Home,Standing Fan,C1066,Returning,2,58000,0.1,104400,39000,No,Ibrahim
+100391,13/04/2026,KN-01,Kano,Online,Accessories,Phone Case,C1150,New,1,9000,0.05,8550,3500,No,David
+100392,05/06/2026,LG-02,Lagos,In-store,Accessories,USB Cable,C1072,New,2,6500,0.15,11050,2200,No,David
+100393,17/01/2026,KN-01,Kano,Online,Accessories,USB Cable,C1001,Returning,2,6500,0.1,11700,2200,No,Chinedu
+100394,21/08/2026,LG-01,Lagos,Online,Accessories,Phone Case,C1065,Returning,3,9000,0.05,25650,3500,No,Aisha
+100395,09/05/2026,KN-01,Kano,WhatsApp,Accessories,Backpack,C1089,Returning,2,28000,0.05,53200,16000,No,Aisha
+100396,26/01/2026,AB-01,Abuja,In-store,Home,Electric Kettle,C1138,Returning,1,24000,0.2,19200,15000,No,Bola
+100397,17/06/2026,LG-02,Lagos,WhatsApp,Electronics,Smartphone,C1039,New,3,165000,0,495000,112000,No,Grace
+100398,15/07/2026,LG-01,Lagos,In-store,Home,Standing Fan,C1134,Returning,4,58000,0,232000,39000,No,Grace
+100399,31/05/2026,KN-01,Kano,Online,Electronics,Power Bank,C1133,Returning,2,26000,0.1,46800,15000,No,Chinedu
+100400,29/04/2026,IB-01,Ibadan,WhatsApp,Home,Standing Fan,C1039,New,1,58000,0,58000,39000,No,Aisha
+100401,26/05/2026,IB-01,Ibadan,Online,Electronics,Smartphone,C1158,Returning,3,165000,0,495000,112000,Yes,Fatima
+100402,21/01/2026,IB-01,Ibadan,WhatsApp,Electronics,Smartphone,C1062,Returning,1,165000,0.1,148500,112000,No,Aisha
+100403,24/04/2026,PH-01,Port Harcourt,In-store,Home,Blender,C1149,New,3,42000,0.05,95760,28000,No,Fatima
+100404,22/05/2026,KN-01,Kano,Online,Home,Blender,C1123,Returning,1,42000,0,42000,28000,No,Fatima
+100405,10/05/2026,PH-01,Port Harcourt,Online,Home,Blender,C1182,New,3,42000,0,126000,28000,Yes,Grace
+100406,11/07/2026,AB-02,Abuja,Online,Electronics,Power Bank,C1162,New,1,26000,0,26000,15000,No,Ibrahim
+100407,19/07/2026,LG-02,Lagos,In-store,Electronics,Earbuds,C1116,Returning,2,32000,0.1,57600,19000,No,Kemi
+100408,27/04/2026,KN-01,Kano,Online,Electronics,Smartphone,C1001,Returning,1,165000,0.15,140250,112000,No,Kemi
+100409,07/06/2026,KN-01,Kano,Online,Accessories,USB Cable,C1081,Returning,2,6500,0.1,11700,,No,Bola
+100410,25/04/2026,PH-01,Port Harcourt,WhatsApp,Electronics,Earbuds,C1104,Returning,1,32000,0.15,27200,19000,No,Grace
+100411,27/02/2026,AB-01,Abuja,Online,Home,Standing Fan,C1154,Returning,2,58000,0.2,92800,39000,Yes,Kemi
+100412,21/06/2026,IB-01,Ibadan,Online,Electronics,Smartphone,C1164,Returning,5,165000,0.1,742500,112000,No,Aisha
+100413,04/06/2026,PH-01,Port Harcourt,In-store,Home,Standing Fan,C1113,New,2,58000,0,116000,39000,No,Chinedu
+100414,15/03/2026,IB-01,Ibadan,In-store,Home,Blender,C1061,Returning,1,42000,0.1,37800,28000,No,Aisha
+100415,07/04/2026,LG-01,Lagos,In-store,Accessories,USB Cable,C1018,Returning,2,6500,0.05,12350,2200,No,Bola
+100416,06/01/2026,PH-01,Port Harcourt,WhatsApp,Electronics,Power Bank,C1012,New,4,26000,0,104000,15000,Yes,David
+100417,13/02/2026,PH-01,Port Harcourt,Online,Electronics,Smartphone,C1027,Returning,4,165000,0.1,594000,112000,No,Bola
+100418,11/07/2026,PH-01,Port Harcourt,In-store,Electronics,Power Bank,C1088,Returning,3,26000,0,78000,15000,No,Chinedu
+100419,22/08/2026,PH-01,Port Harcourt,In-store,Home,Standing Fan,C1006,Returning,4,58000,0.05,220400,39000,No,Ibrahim
+100420,26/02/2026,KN-01,Kano,WhatsApp,Electronics,Smartphone,C1089,Returning,2,165000,0.05,313500,,No,Ibrahim
+100197,01/08/2026,AB-01,Abuja,Online,Accessories,Phone Case,C1152,Returning,1,9000,0.25,6750,3500,Yes,Kemi
+100196,25/02/2026,LG-02,Lagos ,In-store,Electronics,Earbuds,C1147,Returning,4,32000,0.1,115200,19000,No,Grace
+100304,01/07/2026,KN-01,Kano,WhatsApp,Home,Standing Fan,C1090,New,5,58000,0.1,261000,39000,No,Bola
+100306,14/03/2026,PH-01,Port Harcourt,In-store,Accessories,Phone Case,C1162,New,1,9000,0.15,7650,3500,No,Aisha
+100367,22/07/2026,KN-01,Kano,In-store,Accessories,Phone Case,C1187,Returning,2,9000,0,18000,3500,No,Kemi
+100252,11/07/2026,KN-01,Kano,In-store,Electronics,Power Bank,C1117,Returning,2,26000,0,52000,15000,No,David
+100276,22/06/2026,LG-02,Lagos,Online,Home,Electric Kettle,C1016,New,2,24000,0.1,43200,15000,No,David
+100395,09/05/2026,KN-01,Kano,WhatsApp,Accessories,Backpack,C1089,Returning,2,28000,0.05,53200,16000,No,Aisha
+100074,20/04/2026,IB-01,Ibadan,In-store,Accessories,USB Cable,C1043,New,4,6500,0.05,24700,2200,No,Chinedu
+100386,27/01/2026,LG-01,Lagos,WhatsApp,Accessories,Phone Case,C1068,New,3,9000,0,27000,3500,No,Ibrahim
+100061,17/08/2026,LG-02,Lagos,In-store,Electronics,Earbuds,C1039,Returning,1,32000,0.15,27200,19000,No,Aisha
+100401,26/05/2026,IB-01,Ibadan,Online,Electronics,Smartphone,C1158,Returning,3,165000,0,495000,112000,Yes,Fatima
