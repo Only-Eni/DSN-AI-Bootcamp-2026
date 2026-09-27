@@ -404,4 +404,4 @@ The final dashboard was developed in Microsoft Excel and focuses on:
 
 ### Dashboard Preview
 
-![Audited Management Dashboard](assets/dashboard_overview.jpg)
+![Audited Management Dashboard](Assets/dashboard_overview.jpg)
