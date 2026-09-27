@@ -406,4 +406,4 @@ The final dashboard was developed in Microsoft Excel and focuses on:
 
 Add the dashboard screenshot to the repository and reference it here:
 
-![Audited Management Dashboard](assets/dashboard_overview.png)
+![Audited Management Dashboard](assets/dashboard_overview.jpg)
